@@ -1,0 +1,9 @@
+# Navigation Links
+  - title: Home
+    url: /index
+
+  - title: Installation
+    url: /install
+  
+  - title: Releases
+    url: /releases
